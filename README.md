@@ -1,4 +1,4 @@
-# chucknorris.io database repository
+# slackbot guru database repository
 
 This repository contains the database schema, stored procedures and migration files for [chucknorris.io](https://api.chucknorris.io).
 
